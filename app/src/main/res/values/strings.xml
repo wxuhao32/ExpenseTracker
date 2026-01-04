@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <string name="add_record">新增记录</string>
+    <string name="edit_record">编辑记录</string>
+    <string name="amount">金额</string>
+    <string name="category">分类</string>
+    <string name="note">备注</string>
+    <string name="date">日期</string>
+    <string name="type">类型</string>
+    <string name="expense">支出</string>
+    <string name="income">收入</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="add_category">新增分类</string>
+    <string name="category_name">分类名称</string>
+    <string name="empty_list">暂无记录，点击右下角 + 新增</string>
+
+    <string name="summary_income">收入</string>
+    <string name="summary_expense">支出</string>
+    <string name="summary_balance">结余</string>
+</resources>
